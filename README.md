@@ -25,7 +25,7 @@ Open the Jupyter Notebook in the starter code folder named `part_1_mars_news.ipy
 
 3. Extract the titles and preview text of the news articles that you scraped. Store the scraping results in Python data structures as follows:
 
-      * Store each `title` and `preview` pair in a Python dictionary. And, give each dictionary two keys: `title` and `preview`. An example is the following:
+      * Store each title-and-preview pair in a Python dictionary. And, give each dictionary two keys: `title` and `preview`. An example is the following:
 
      'title': "Mars Rover Begins Mission!", 
       'preview': "NASA's Mars Rover begins a multiyear mission to collect data about the little-explored  planet."
