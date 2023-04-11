@@ -28,7 +28,7 @@ Open the Jupyter Notebook in the starter code folder named `part_1_mars_news.ipy
       * Store each title-and-preview pair in a Python dictionary. And, give each dictionary two keys: `title` and `preview`. An example is the following:
 
     ` 'title': "Mars Rover Begins Mission!", 
-      'preview': "NASA's Mars Rover begins a multiyear mission to collect data about the little-explored        planet."`
+      'preview': "NASA's Mars Rover begins a multiyear mission to collect data about the little-explored planet."`
       * Store all the dictionaries in a Python list.
 
       * Print the list in your notebook.
